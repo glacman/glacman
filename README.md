@@ -4,8 +4,8 @@
 - 💞️ I’m looking to debug my issues to connect Grafana App with Posgres Database. 
 -  I just got a "super guide" on Github to get this,  working on my Synology NAS ( https://github.com/adriankumpf/teslamate/issues/113 )
 -  My current status after my first steps :
-  - my Teslamate log on my 4000 NAS port works well . I got my Ast connection witht my Tesla , great !
-  - My Grafana log on on my 3000 is ok , 
+  - my Teslamate log on my 4000 NAS port works well . I got my first connection witht my Tesla , great !
+  - My Grafana is log on on my 3000 port is just ok  
   - But I got NO DATA fron dashbord with Data Query Error - Status Error 500 "internal Server Error" and HideFromInspector" = false 
 You can click the Preview link to take a look at your changes.
 --->
