@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @glacman and just discovering Github community. I'm not really a geek but happy to connect with you. 
+- 👀 I’m interested in Teslamate application 
+- 🌱 I’m currently learning and creating my NAS Synology and trying implementing "TESLAMATE" on my Disk System Management with Docker  
+- 💞️ I’m looking to debug my issues to connect Grafana App with Posgres Database. 
+-  I just got a "super guide" on Github to get this,  working on my Synology NAS ( https://github.com/adriankumpf/teslamate/issues/113 )
+-  My current status after my first steps :
+  - my Teslamate log on my 4000 NAS port works well . I got my Ast connection witht my Tesla , great !
+  - My Grafana log on on my 3000 is ok , 
+  - But I got NO DATA fron dashbord with Data Query Error - Status Error 500 "internal Server Error" and HideFromInspector" = false 
+You can click the Preview link to take a look at your changes.
+--->
